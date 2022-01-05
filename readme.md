@@ -1,8 +1,8 @@
-### Hi there, I'm [Meganova][website] 👋 
+# Hi there, I'm [Meganova][website] 👋 
 
 lorem ipsum
 
-### Connect with me:
+## Connect with me:
 
 [![Website](https://img.shields.io/website?label=meganova.github.io&style=for-the-badge&url=https%3A%2F%2Fmeganova.github.io)](https://meganova.github.io/)
 [<svg xmlns="http://www.w3.org/2000/svg" align="left" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>][website]
@@ -11,25 +11,20 @@ lorem ipsum
 
 ---
 
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
-</details>
+<img align="left" alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meganova" />
+<img align="left" alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganova" />
 
-<details>
-    <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meganova" />
-    <img align="left" alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganova" />
-</details>
+<br><br>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-<details>
-    <summary>:zap: Youtube</summary>
-    <!--YOUTUBE-LIST:START-->
-    <!--YOUTUBE-LIST:END-->
-</details>
+## Youtube
+<!--YOUTUBE-LIST:START-->
+<!--YOUTUBE-LIST:END-->
+
 
 [website]: https://meganova.github.io/
 [twitter]: hhttps://twitter.com/MeganovaLP
