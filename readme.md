@@ -1,14 +1,10 @@
 ### Hi there, I'm [Meganova][website] 👋 
 
-[![Website](https://img.shields.io/website?label=meganova.github.io&style=for-the-badge&url=https:%3A%2F%2Fmeganova.github.io)](https://meganova.github.io/)
+[![Website](https://img.shields.io/website?label=meganova.github.io&style=for-the-badge&url=https%3A%2F%2Fmeganova.github.io)](https://meganova.github.io/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+lorem ipsum
 
 ### Connect with me:
 
