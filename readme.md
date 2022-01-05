@@ -11,8 +11,8 @@ lorem ipsum
 
 ---
 
-<img align="left" alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meganova" />
-<img align="left" alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganova" />
+<img alt="Meganova's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meganova" />
+<img alt="Meganova's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meganova" />
 
 <br><br>
 
