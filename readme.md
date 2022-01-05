@@ -1,6 +1,9 @@
-# Hi there, I'm [Meganova][website] 👋 
+# Hey, ich bin [Meganova][website] 👋 
 
-lorem ipsum
+Ich hasse Einschränkungen. Meine Erfahrungen als Programmierer begannen mit 13 Jahren. Damals mit Programmen die mich recht schnell einschränkten. Darum habe ich mir selber alle möglichen Programmier- und Scriptsprachen beigebracht.
+
+Nachdem mir HTML und CSS zu einseitig wurden begann mit etwa 15 Jahren meine Begeisterung für Programmiersprachen zu wachsen. So folgten nach PHP, JavaScript und SQL die ersten versuche mit Python und später C#.
+
 
 [![Website](https://img.shields.io/website?label=meganova.github.io&style=for-the-badge&url=https%3A%2F%2Fmeganova.github.io)](https://meganova.github.io/)
 [<svg xmlns="http://www.w3.org/2000/svg" align="left" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>][website]
