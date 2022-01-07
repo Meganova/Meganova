@@ -18,8 +18,6 @@ Nachdem mir HTML und CSS zu einseitig wurden begann mit etwa 15 Jahren meine Beg
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
-## Youtube
 <!--YOUTUBE-LIST:START-->
 <!--YOUTUBE-LIST:END-->
 
